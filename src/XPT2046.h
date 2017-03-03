@@ -1,7 +1,7 @@
 /*
  * Copyright (c) 2017  razorlt, Spiros Papadimitriou
  *
- * This file is part of https://github.com/razorlt/Particle-XPT2046 and is released
+ * This file is part of github.com/razorlt/Particle-XPT2046 and is released
  * under the MIT License: https://opensource.org/licenses/MIT
  *
  * This software is distributed on an "AS IS" basis,
