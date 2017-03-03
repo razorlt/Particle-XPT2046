@@ -1,6 +1,7 @@
 MIT License
 
-Copyright (c) 2015-2016  Spiros Papadimitriou
+Copyright (c) 
+Copyright for portions of project are held by Spiros Papadimitriou. All other copyright for project are held by razorlt.  
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
